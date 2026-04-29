@@ -37,7 +37,7 @@ Catálogo digital de maquinaria industrial optimizado para SEO y rendimiento.
   </tr>
 </table>
 
-## Responsive Design
+## Diseño Responsivo Mobile
 
 <table>
   <tr>
